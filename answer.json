@@ -1,9 +1,5 @@
 [
   {
-    "action": "talk",
-    "text": "Hello my dear, this is Mohamed speaking to you "
-  },
-  {
     "action": "stream",
     "streamUrl": ["https://wakeelgit.github.io/NCCOAnswerSample/noanswer-33477.mp3"],
     "loop" : 1
